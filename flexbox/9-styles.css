@@ -566,7 +566,7 @@ ul.row {
 
 /* Section ABOUT US
         ============================= */
-.col-1-2{
+.section-about-us .col-1-2{
     align-self: center;
 }
 
