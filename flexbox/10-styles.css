@@ -532,12 +532,14 @@ ul.row {
       ============================= */
 
 .section-hero {
+    position: relative;
+    margin-top: -8.5rem;
+}
+.hero-homepage {
     background-position: 75% 0;
     background-repeat: no-repeat;
     background-size: 90rem auto;
     background-color: #010101;
-    position: relative;
-    margin-top: -8.5rem;
 }
 .section-hero .section-body{
     padding: 10rem 4rem;
@@ -546,13 +548,6 @@ ul.row {
     color: var(--color-white);
     text-transform: uppercase;
 }
-.hero-homepage {
-    background-position: 75% 0;
-    background-repeat: no-repeat;
-    background-size: 90rem auto;
-    background-color: #010101;
-}
-
 .section-hero .section-title {
     margin-bottom: 5rem;
 }
