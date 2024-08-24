@@ -1,6 +1,6 @@
 # FORMS
 
-Forms in HTML are used to collect user input. They are an essential part of web applications and are commonly used for tasks like user registration, login, search, and more. A form in HTML is created using the <form> element, which acts as a container for various input elements where users can enter data. Once filled out, the data can be sent to a server for processing.
+Forms in HTML are used to collect user input. They are an essential part of web applications and are commonly used for tasks like user registration, login, search, and more. A form in HTML is created using the `<form>` element, which acts as a container for various input elements where users can enter data. Once filled out, the data can be sent to a server for processing.
 
 ## Basic Structure of an HTML Form
 
