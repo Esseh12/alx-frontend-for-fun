@@ -66,7 +66,7 @@ Here's a basic example of a form in HTML:
 
 ## Accessibility Considerations
 
-- Always use <label> elements to associate labels with input fields.
+- Always use `<label>` elements to associate labels with input fields.
 - Consider using the required attribute to indicate that a field must be filled out.
 - Use appropriate input types (e.g., email, number) to help with validation and mobile-friendly forms.
 
