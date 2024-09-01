@@ -26,7 +26,4 @@ Web accessibility also benefits people without disabilities, for example:
 
 For a 7-minute video with examples of how accessibility is essential for people with disabilities and useful for everyone in a variety of situations, see:
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=3f31oufqFSM" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/3f31oufqFSM/maxresdefault.jpg)](https://www.youtube.com/watch?v=3f31oufqFSM)
