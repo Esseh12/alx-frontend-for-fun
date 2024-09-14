@@ -1,0 +1,12 @@
+$primary-body-color: #3D3D3D;
+$primary-text-color: #FF0000;
+
+body{
+  color: $primary-body-color;
+}
+
+body >{
+  .red{
+    color: $primary-text-color;
+  }
+}
