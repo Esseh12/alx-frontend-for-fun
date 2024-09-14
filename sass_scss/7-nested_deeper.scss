@@ -1,10 +1,11 @@
-body{
+/* NESTED AND NESTED AGAIN */
+body {
   font-size: 14px;
 
-  h1{
+  h1 {
     font-size: 16px;
 
-    .smaller{
+    .smaller {
       font-size: 12px;
     }
   }
