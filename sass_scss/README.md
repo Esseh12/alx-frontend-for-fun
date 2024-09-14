@@ -1,5 +1,8 @@
 # Sass Basics
 
+<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass logo"/>
+
+
 ## Preprocessing
 CSS on its own can be fun, but stylesheets are getting larger, more complex, and harder to maintain. This is where a preprocessor can help. Sass has features that don’t exist in CSS yet like nesting, mixins, inheritance, and other nifty goodies that help you write robust, maintainable CSS.
 
