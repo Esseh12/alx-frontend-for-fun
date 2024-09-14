@@ -3,7 +3,8 @@ $primary-hover-color: #00FF00;
 
 button{
   color: $primary-button-color;
-  
+} 
+button{
   &:hover{
     color: $primary-hover-color;
   }
