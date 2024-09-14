@@ -1,10 +1,9 @@
-$primary-button-color: #FF0000;
-$primary-hover-color: #00FF00;
+/* Nested hover*/
 
 button{
-  color: $primary-button-color; 
+  color: #FF0000; 
 
   &:hover{
-    color: $primary-hover-color;
+    color: #00FF00;
   }
 }
