@@ -4,6 +4,8 @@ $primary-text-color: #FF0000;
 body{
   color: $primary-body-color;
 }
-body .red{
-  color: $primary-text-color;
+body{ 
+  .red{
+     color: $primary-text-color;
+  }
 }
