@@ -2,9 +2,8 @@ $primary-button-color: #FF0000;
 $primary-hover-color: #00FF00;
 
 button{
-  color: $primary-button-color;
-} 
-button{
+  color: $primary-button-color; 
+
   &:hover{
     color: $primary-hover-color;
   }
