@@ -1,0 +1,19 @@
+/* This CSS will print because it is extended */
+
+%shared-message{
+  font-size: 12px;
+}
+
+.info{
+  @extend %shared-message; 
+}
+
+.success{
+  @extend %shared-message;
+  color: #00FF00;
+}
+
+.warning{
+  @extend %shared-message;
+  color: #FF0000;
+}
