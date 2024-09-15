@@ -1,26 +1,22 @@
-/* media query 2 */
+/* nested media query */
 
-h1{
+h1 {
   font-size: 20px;
-}
 
-@media screen and (max-width: 960px) {
-  h1{
+  @media screen and (max-width: 960px) {
     font-size: 18px;
   }
-}
 
-@media screen and (max-width: 640px) {
-  h1{
+  @media screen and (max-width: 640px) {
     font-size: 16px;
   }
-}
 
-@media screen and (max-width: 320px) {
-  h1{
+  @media screen and (max-width: 320px) {
     font-size: 14px;
-    .small{
+
+    &.small {
       color: #1D1D1D;
     }
   }
 }
+
